@@ -10,7 +10,7 @@
 
 **About me**
 
-Im a youtuber and gamer. i like geometry dash, Coding, and more. Heres my [Website](https://daringfireball.net/projects/markdown/)
+Im a youtuber and gamer. i like geometry dash, Coding, and more. Heres my [Website](https://mdxstudios.github.io/nike7.github.io/)
 
 <!---
 mdxstudios/mdxstudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
