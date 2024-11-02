@@ -9,6 +9,7 @@
 - ⚡ Fun fact: I dont use youtube to upload vids alot
 
 **About me**
+
 Im a youtuber and gamer. i like geometry dash, Coding, and more. Heres my [Website](https://daringfireball.net/projects/markdown/)
 
 <!---
