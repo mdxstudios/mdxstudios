@@ -1,18 +1,20 @@
-**Simple about me**
+# 🎮 MDX Studios
+This is **MDX Studios**, a group of 7 people who make programs and games.
 
-- 👋 Hi, I’m Nike (Pronounced like nyke, not like the shoe brand)
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on GD Colon's Videos
-- 📫 How to reach me: Im working on a list of ways
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I dont use youtube to upload vids alot
+## 📜 **Our Team**
 
-**About me**
+- 📜 **LLLettuce (Owner)**  
+   - **Discord:** amysct  
+   - *Note:* Don't send friend requests, as they are not accepted. You can find me in the **NTTS** server and **Velocity**, so feel free to join them and look for me there.
 
-Im a youtuber and gamer. i like geometry dash, Coding, and more. Heres my [Website](https://mdxstudios.github.io/nike7.github.io/)
+***You can join too!*** Apply here: (not finished).
 
-<!---
-mdxstudios/mdxstudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## **Projects**
+*(Most of this is PLANNED)*
+
+- **Objection**: A website that has news for the following:
+  - **Ace Attorney**: Latest updates, discussions, and fan content related to the **Ace Attorney** series.
+  - **Objection.LOL**: An Ace Attorney Turnabout Creator tool with a "sense mode" designed for creating debate videos, memes, and sh#tposts, using custom frames of dialogue and other features.
+  - **Ace Attorney Turnabout Creator (AATC)**: A more feature-rich tool for creating custom **Ace Attorney** cases (currently not available).
+
+
