@@ -1,20 +1,9 @@
-# 🎮 MDX Studios
-This is **MDX Studios**, a group of 7 people who make programs and games.
+# Welcome to My GitHub Profile!
 
-## 📜 **Our Team**
+## About Me
 
-- 📜 **LLLettuce (Owner)**  
-   - **Discord:** amysct  
-   - *Note:* Don't send friend requests, as they are not accepted. You can find me in the **NTTS** server and **Velocity**, so feel free to join them and look for me there.
+Not much here yet. This profile is still a work in progress! I’m currently working on a variety of projects, and you can expect more updates soon. I'm a solo developer with a lot of ideas in the works, so feel free to check back for more content!
 
-***You can join too!*** Apply here: (not finished).
+## Development Team
 
-## **Projects**
-*(Most of this is PLANNED)*
-*PLANNED: Objection*
-- **Objection**: A website that has news for the following:
-  - **Ace Attorney**: Latest updates, discussions, and fan content related to the **Ace Attorney** series.
-  - **Objection.LOL**: An Ace Attorney Turnabout Creator tool with a "(insert word here) mode" designed for creating debate videos, memes, and sh#tposts, using custom frames of dialogue and other features.
-  - **Ace Attorney Turnabout Creator (AATC)**: A more feature-rich tool for creating custom **Ace Attorney** cases (currently not available).
-- **Project Idea Gen**: Creates a random project idea 
-
+This is a **one-person team**. All development is being handled by me, so please be patient as I work to add new features and improve my projects.
